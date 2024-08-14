@@ -1,0 +1,12 @@
+Absolute path to the image: C:/Users/jackp/kulas/Simbir-testovoe/ui_tests/images/test_image.jpg
+Label Values
+Student Name John Doe
+Student Email john.doe@example.com
+Gender Male
+Mobile 1234567890
+Date of Birth 06 August,2001
+Subjects Maths
+Hobbies
+Picture test_image.jpg
+Address 123 Test St
+State and City NCR Delhi
