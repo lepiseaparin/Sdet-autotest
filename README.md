@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5d000b5-dd9f-4c11-9d81-7084edb7a973)Добрый день. 
+Добрый день. 
 Данный проект запускается c помощью файла "start.bat" или в терминале командой:  pytest --alluredir=./allure-results.
 Далее запускается сессия, где проводится тестирование.
 Результаты тестирования сохраняются в папке allure-result. Данный проект реализован для сайта: https://demoqa.com/automation-practice-form
