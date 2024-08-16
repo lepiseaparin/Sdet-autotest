@@ -3,7 +3,7 @@ from selenium.webdriver.support.select import Select
 
 from .base_page import BasePage
 
-'''Каждый атрибут класса представляет собой локатор формы элемента. Локаторы показывают, как найти элементы на странице'''
+
 class RegistrationPage(BasePage):
     FIRST_NAME = (By.ID, "firstName")
     LAST_NAME = (By.ID, "lastName")

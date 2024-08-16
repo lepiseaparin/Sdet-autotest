@@ -10,7 +10,6 @@ def test_registration(browser):
     # Создание экземпляра RegistrationPage с браузером
     registration_page = RegistrationPage(browser)
 
-    # Открытие страницы с формой регистрации
     registration_page.open("https://demoqa.com/automation-practice-form")
 
     # Заполнение формы
@@ -41,7 +40,6 @@ def test_registration(browser):
     modal_title = wait.until(EC.visibility_of_element_located((By.ID, "example-modal-sizes-title-lg"))).text
     assert modal_title == "Thanks for submitting the form"
 
-    # Вывод всех значений из таблицы для диагностики
     modal_content = browser.find_element(By.CLASS_NAME, "modal-body").text
     print(modal_content)
 
