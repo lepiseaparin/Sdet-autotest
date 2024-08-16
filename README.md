@@ -8,6 +8,11 @@ Good afternoon.
 This project is launched using the "start.bat" file or in the terminal with the command: pytest --alluredir=./allure-results.
 Next, a session is launched where testing is carried out.
 Test results are saved in the allure-result folder. This project was implemented for the site: https://demoqa.com/automation-practice-form
+___________________________________________________________________________________________________________________________________________
+
+Работа кода / working code
+
+https://github.com/user-attachments/assets/bd50aa30-a1dd-453a-b391-e4e617b66607
 
 ___________________________________________________________________________________________________________________________________________
 
