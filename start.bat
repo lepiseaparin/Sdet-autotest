@@ -1,7 +1,7 @@
 @echo off
 
 :: Путь к python проекта
-set PYTHON_PATH=C:\Users\jackp\kulas\Simbir-testovoe\.venv\Scripts\python.exe
+set PYTHON_PATH=Simbir-testovoe\.venv\Scripts\python.exe
 
 :: Добавление python в PATH
 set PATH=%PYTHON_PATH%;%PATH%
